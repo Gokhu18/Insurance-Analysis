@@ -1,4 +1,3 @@
-setwd("C:/Umaima/Data Science/R/Code")
 
 Insdata <- read.csv("SwedishMotorInsurance.csv")
 View(Insdata)
